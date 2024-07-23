@@ -1,0 +1,49 @@
+body {
+    background-color:black;
+    text-align:center;
+}
+
+.introduction {
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h1 {
+    text-align: center;
+    border: 0px solid blue;
+    padding: 25px;
+    background-color: #181dbe; 
+    width;
+    margin: 50px;  
+
+}
+
+
+h2 {
+    color: aliceblue;
+    text-align: left;
+    font-size: medium;
+}
+
+
+
+
+
+
+.list {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+ul {
+    color: aliceblue;
+    text-align: left;
+}
+
+p {
+    color: aliceblue;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
